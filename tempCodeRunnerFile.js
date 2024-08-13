@@ -1,1 +1,0 @@
-const users = require("./schemas/usersSchema.js");
